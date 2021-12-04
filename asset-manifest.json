@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mvincent121212/multistep-form/static/css/main.4a672bba.chunk.css",
-    "main.js": "/mvincent121212/multistep-form/static/js/main.dd1f51f0.chunk.js",
-    "main.js.map": "/mvincent121212/multistep-form/static/js/main.dd1f51f0.chunk.js.map",
-    "runtime-main.js": "/mvincent121212/multistep-form/static/js/runtime-main.1db8422f.js",
-    "runtime-main.js.map": "/mvincent121212/multistep-form/static/js/runtime-main.1db8422f.js.map",
-    "static/js/2.5bd67613.chunk.js": "/mvincent121212/multistep-form/static/js/2.5bd67613.chunk.js",
-    "static/js/2.5bd67613.chunk.js.map": "/mvincent121212/multistep-form/static/js/2.5bd67613.chunk.js.map",
-    "index.html": "/mvincent121212/multistep-form/index.html",
-    "static/css/main.4a672bba.chunk.css.map": "/mvincent121212/multistep-form/static/css/main.4a672bba.chunk.css.map",
-    "static/js/2.5bd67613.chunk.js.LICENSE.txt": "/mvincent121212/multistep-form/static/js/2.5bd67613.chunk.js.LICENSE.txt"
+    "main.css": "/mvincent121212/multistep-form-react/static/css/main.4a672bba.chunk.css",
+    "main.js": "/mvincent121212/multistep-form-react/static/js/main.dd1f51f0.chunk.js",
+    "main.js.map": "/mvincent121212/multistep-form-react/static/js/main.dd1f51f0.chunk.js.map",
+    "runtime-main.js": "/mvincent121212/multistep-form-react/static/js/runtime-main.df2cfc14.js",
+    "runtime-main.js.map": "/mvincent121212/multistep-form-react/static/js/runtime-main.df2cfc14.js.map",
+    "static/js/2.5bd67613.chunk.js": "/mvincent121212/multistep-form-react/static/js/2.5bd67613.chunk.js",
+    "static/js/2.5bd67613.chunk.js.map": "/mvincent121212/multistep-form-react/static/js/2.5bd67613.chunk.js.map",
+    "index.html": "/mvincent121212/multistep-form-react/index.html",
+    "static/css/main.4a672bba.chunk.css.map": "/mvincent121212/multistep-form-react/static/css/main.4a672bba.chunk.css.map",
+    "static/js/2.5bd67613.chunk.js.LICENSE.txt": "/mvincent121212/multistep-form-react/static/js/2.5bd67613.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1db8422f.js",
+    "static/js/runtime-main.df2cfc14.js",
     "static/js/2.5bd67613.chunk.js",
     "static/css/main.4a672bba.chunk.css",
     "static/js/main.dd1f51f0.chunk.js"
